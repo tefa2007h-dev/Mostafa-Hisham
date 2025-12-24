@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Chronos Luxe - Luxury Watch Boutique",
+  "description": "A high-end e-commerce platform for luxury timepieces, featuring a sophisticated UI, full shopping experience, and AI-powered connoisseur insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
